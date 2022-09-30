@@ -1,0 +1,7 @@
+Unnamed: 0,ID,City,State,Country,Name,Employees,Address,Longitude,Latitude
+0,1,San Francisco,CA 94114,USA,Madeira,8,11111 Euclid Ave,Null,Null
+1,2,San Francisco,CA 94119,USA,Bready Shop,15,"San Francisco, CA 94119, USA",-122.39188499999995,37.792215000000056
+2,3,San Francisco,California 94114,USA,Super River,25,"San Francisco, California 94114, USA",-122.43710499999997,37.759975000000054
+3,4,San Francisco,CA 94114,USA,Ben's Shop,10,"San Francisco, CA 94114, USA",-122.43710499999997,37.759975000000054
+4,5,San Francisco,California,USA,Sanchez,12,"San Francisco, California, USA",-122.41963999999996,37.777120000000025
+5,6,San Francisco,CA 94114,USA,Richvalley,20,"San Francisco, CA 94114, USA",-122.43710499999997,37.759975000000054

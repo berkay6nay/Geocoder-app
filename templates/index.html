@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" >
+  <head >
+    <meta charset="utf-8">
+    <title></title>
+    <link href = "../static/main.css" rel = stylesheet>
+  </head>
+  <body>
+    <div class="container">
+    <h1>This is a geocoder app made with pandas and flask</h1><br>
+    <h2>Please upload a csv file containing an address or Address column with the address informations</h2>
+    <form action="{{url_for('success')}}" method="POST" enctype= "multipart/form-data">
+        <input type="file" name="file" ><br>
+        <button type="submit" >Submit</button>
+      </form>
+
+      {% include [btn] ignore missing %}
+      {{text|safe}}
+    </div>
+  </body>
+</html>
